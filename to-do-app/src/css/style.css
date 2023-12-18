@@ -1,0 +1,34 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+
+  .input{
+    border-radius: 10%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+  }
+
+ .icons {
+  cursor: pointer;
+  position: relative;
+}
+
+.icons:hover{
+
+color: #15be09;
+}
+
+.list{
+    font-size: 25px;
+    list-style:circle;
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 30%;
+
+}
+
+.list-div{
+    padding-left: 40%;
+}
