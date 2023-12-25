@@ -1,3 +1,3 @@
 ***To-do-app REACT***
 
-Simple to-do app where task can be added and can be removed. Used React and bootstrap. 
+Simple to-do app where task can be added ,removed and prioritized. Used React and bootstrap. 
